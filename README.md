@@ -21,7 +21,7 @@ I am a software engineer with 3 years of experience. I love learning and buildin
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 [![LeetCode user jxxzxs](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23C44DFF&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjxxzxs&logo=leetcode&logoColor=yellow)](https://leetcode.com/jxxzxs/)
 
-### 👀 Visitor Count
+### Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=tfnov2k&color=9932CC)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfnov2k&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
